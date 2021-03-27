@@ -15,5 +15,5 @@ for your own machine. I'll do my best to answer questions related to parameters 
 - Fetch: [pfetch-git](https://github.com/dylanaraps/pfetch)
 
 
-<img src="httpss://github.com/mrsandaru/arch-xfce4/main/out.png" alt="img" align="center" width="900px">
+<img src="/mrsandaru/arch-xfce4/main/out.png" alt="img" align="center" width="900px">
 
